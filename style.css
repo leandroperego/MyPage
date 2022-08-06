@@ -1,0 +1,42 @@
+header{
+  margin-top: -10px;
+  background: #78866B
+}
+h1{
+  color: white;
+  text-align: center;  
+  font-family: 'Shadows Into Light', cursiva;
+}
+h3{
+  color: #78866B;
+  font-family: 'Shadows Into Light', cursiva;  
+}
+a{
+  color: white;
+}
+
+nav {
+  text-align: center;
+}
+
+details{
+  font-size: 18px;
+  color: white;
+}
+footer{
+  background: #78866B;
+}
+
+p{
+  font-size: 20px;
+  margin: 3em;
+  text-align: center;
+}
+
+body {
+  margin: 1pt;
+  border: 10pt double #78866B;
+  text-align: center;
+  height: 100%;
+  width: 98%;
+}
